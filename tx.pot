@@ -17,7 +17,7 @@ msgstr ""
 msgid "Quit"
 msgstr ""
 
-msgid "Overall volume"
+msgid "Sound volume"
 msgstr ""
 
 msgid "Music volume"
@@ -38,17 +38,17 @@ msgstr ""
 msgid "Score: "
 msgstr ""
 
-msgid "Killed enemies: "
+msgid "Killed enemies"
 msgstr ""
 
-msgid "NO DEATH +"
+msgid "NO DEATH"
 msgstr ""
 
-msgid "Max combo: "
+msgid "Max combo"
 msgstr ""
 
-msgid "Final score: "
+msgid "Final score"
 msgstr ""
 
-msgid "Total score: "
+msgid "Total score"
 msgstr ""
