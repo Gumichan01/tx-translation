@@ -14,8 +14,8 @@ msgstr "Target Xplosion"
 msgid "Play"
 msgstr "Jouer"
 
-msgid "Option"
-msgstr "Option"
+msgid "Options"
+msgstr "Options"
 
 msgid "Quit"
 msgstr "Quitter"
@@ -26,7 +26,7 @@ msgstr "Volume général"
 msgid "Music volume"
 msgstr "Volume musique"
 
-msgid "FX volume"
+msgid "SFX volume"
 msgstr "Volume effet sonore"
 
 msgid "Fullscreen"
