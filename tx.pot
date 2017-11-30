@@ -11,7 +11,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-msgid "Option"
+msgid "Options"
 msgstr ""
 
 msgid "Quit"
@@ -23,7 +23,7 @@ msgstr ""
 msgid "Music volume"
 msgstr ""
 
-msgid "FX volume"
+msgid "SFX volume"
 msgstr ""
 
 msgid "Fullscreen"
