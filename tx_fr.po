@@ -20,7 +20,7 @@ msgstr "Options"
 msgid "Quit"
 msgstr "Quitter"
 
-msgid "Overall volume"
+msgid "Sound volume"
 msgstr "Volume général"
 
 msgid "Music volume"
@@ -38,20 +38,20 @@ msgstr "Manette"
 msgid "Back"
 msgstr "Retour"
 
-msgid "Score: "
-msgstr "Score : "
+msgid "Score"
+msgstr "Score"
 
-msgid "Killed enemies: "
-msgstr "Ennemis tués : "
+msgid "Killed enemies"
+msgstr "Ennemis tués"
 
-msgid "NO DEATH +"
-msgstr "SANS MOURRIR +"
+msgid "NO DEATH"
+msgstr "SANS MOURIR"
 
-msgid "Max combo: "
-msgstr "Combo max : "
+msgid "Max combo"
+msgstr "Combo max"
 
-msgid "Final score: "
-msgstr "Score final : "
+msgid "Final score"
+msgstr "Score final"
 
-msgid "Total score: "
-msgstr "Score total : "
+msgid "Total score"
+msgstr "Score total"
