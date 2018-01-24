@@ -21,7 +21,7 @@ After that, you must generate the *.mo* file.
 
 ## Disclaimer ##
 
-Internationalization and Localization is not supported yet by Target Xplosion,
-but it will be integrated in the beta version.
+Internationalization and Localization are not supported yet by Target Xplosion,
+but they will be integrated in the beta version.
 However, I started to create this repository, so people can start to translate
 the game in several languages.
