@@ -22,7 +22,7 @@ After that, you must generate the *.mo* file.
 
 Copy the *.mo* file in the `config/` directory of [the game](https://github.com/Gumichan01/target-xplosion).
 
-## contribution ##
+## Contribution ##
 
 Internationalization and Localization are supported by Target Xplosion.
 You don't need to select a language, it is detected by the game.
