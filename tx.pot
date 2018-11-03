@@ -52,3 +52,6 @@ msgstr ""
 
 msgid "Total score"
 msgstr ""
+
+msgid "Result"
+msgstr "Résultat"
